@@ -1,0 +1,12 @@
+/Users/filip/Playground/EF.Translations/EF.Translations/bin/Debug/net7.0/EF.Translations.deps.json
+/Users/filip/Playground/EF.Translations/EF.Translations/bin/Debug/net7.0/EF.Translations.dll
+/Users/filip/Playground/EF.Translations/EF.Translations/bin/Debug/net7.0/EF.Translations.pdb
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.csproj.AssemblyReference.cache
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.AssemblyInfoInputs.cache
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.AssemblyInfo.cs
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.csproj.CoreCompileInputs.cache
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.dll
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/refint/EF.Translations.dll
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/EF.Translations.pdb
+/Users/filip/Playground/EF.Translations/EF.Translations/obj/Debug/net7.0/ref/EF.Translations.dll

@@ -1,0 +1,15 @@
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/bin/Debug/net7.0/EF.Translations.Usage.deps.json
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/bin/Debug/net7.0/EF.Translations.Usage.dll
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/bin/Debug/net7.0/EF.Translations.Usage.pdb
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/bin/Debug/net7.0/EF.Translations.dll
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/bin/Debug/net7.0/EF.Translations.pdb
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.csproj.AssemblyReference.cache
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.AssemblyInfoInputs.cache
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.AssemblyInfo.cs
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.csproj.CoreCompileInputs.cache
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.csproj.CopyComplete
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.dll
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/refint/EF.Translations.Usage.dll
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/EF.Translations.Usage.pdb
+/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/Debug/net7.0/ref/EF.Translations.Usage.dll

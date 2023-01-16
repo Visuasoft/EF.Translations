@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jv5JskQ86gvFr/fd09sJZ2UaAqzCfsBwKNWj3COfiGdB2ozLYqZiMon7dXk7oJUptm4y2okpIiCgRArV8/LsQ==",
+  "success": true,
+  "projectFilePath": "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/EF.Translations.Usage.csproj",
+  "expectedPackageFiles": [
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore/7.0.2/microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.2/microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.2/microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.2/microsoft.entityframeworkcore.inmemory.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.2/microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

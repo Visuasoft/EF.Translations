@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/EF.Translations.Usage.csproj": {}
+  },
+  "projects": {
+    "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/EF.Translations.Usage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/EF.Translations.Usage.csproj",
+        "projectName": "EF.Translations.Usage",
+        "projectPath": "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/EF.Translations.Usage.csproj",
+        "packagesPath": "/Users/filip/.nuget/packages/",
+        "outputPath": "/Users/filip/Playground/EF.Translations/EF.Translations.Usage/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/filip/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj": {
+                "projectPath": "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.1.22431.12/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj",
+        "projectName": "EF.Translations",
+        "projectPath": "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj",
+        "packagesPath": "/Users/filip/.nuget/packages/",
+        "outputPath": "/Users/filip/Playground/EF.Translations/EF.Translations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/filip/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.1.22431.12/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

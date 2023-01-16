@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Translations", "EF.Translations\EF.Translations.csproj", "{B4A5EDC2-9D7D-47C8-8142-06D3D3A9FA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Translations.Usage", "EF.Translations.Usage\EF.Translations.Usage.csproj", "{A70B7475-719A-4E19-91B5-489DE123EB55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Translations.Runner", "EF.Translations.Runner\EF.Translations.Runner.csproj", "{E76196E8-8936-46E6-BD35-89A6CC25B52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A5EDC2-9D7D-47C8-8142-06D3D3A9FA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A5EDC2-9D7D-47C8-8142-06D3D3A9FA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A5EDC2-9D7D-47C8-8142-06D3D3A9FA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A5EDC2-9D7D-47C8-8142-06D3D3A9FA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70B7475-719A-4E19-91B5-489DE123EB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70B7475-719A-4E19-91B5-489DE123EB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70B7475-719A-4E19-91B5-489DE123EB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70B7475-719A-4E19-91B5-489DE123EB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76196E8-8936-46E6-BD35-89A6CC25B52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76196E8-8936-46E6-BD35-89A6CC25B52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76196E8-8936-46E6-BD35-89A6CC25B52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76196E8-8936-46E6-BD35-89A6CC25B52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

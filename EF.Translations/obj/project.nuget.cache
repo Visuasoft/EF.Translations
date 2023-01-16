@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcCzolELX+EUSm0QbriA6YN4xcZlshBaa314E0LOEEDMbQXMSlCtd0cS4eTZFi8x99fDpWWegJQiCaOm5M5hNg==",
+  "success": true,
+  "projectFilePath": "/Users/filip/Playground/EF.Translations/EF.Translations/EF.Translations.csproj",
+  "expectedPackageFiles": [
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore/7.0.2/microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.2/microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.2/microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/filip/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
